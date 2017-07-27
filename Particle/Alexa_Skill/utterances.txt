@@ -1,0 +1,10 @@
+ParticleIntent what is the {temperature|sensor} here
+ParticleIntent what is the {humidity|sensor} here
+ParticleIntent turn {on|onoff} the {red|light} light
+ParticleIntent turn {on|onoff} the {green|light} light
+ParticleIntent turn {off|onoff} the {red|light} light
+ParticleIntent turn {off|onoff} the {green|light} light
+HelpIntent help
+HelpIntent help me
+HelpIntent to help
+HelpIntent to help me
