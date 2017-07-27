@@ -1,0 +1,17 @@
+{
+  "name": "bluemix_aws",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeharika",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "aws-iot-device-sdk": "^2.0.1",
+    "dotenv": "^4.0.0",
+    "watson-developer-cloud": "^0.9.29"
+  }
+}
