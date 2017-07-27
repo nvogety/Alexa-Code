@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "message",
+          "type": "MESSAGE"
+        }
+      ],
+      "intent": "MessageIntent"
+    }
+  ]
+}

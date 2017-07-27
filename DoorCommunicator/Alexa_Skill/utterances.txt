@@ -1,0 +1,3 @@
+MessageIntent send this message {message}
+MessageIntent to say {message}
+MessageIntent to ask {message}
